@@ -1,7 +1,9 @@
 #!/bin/bash
 
 echo "hello world, i am learning devops with AWS"
-echo "hello world, i am  devops with AWS"
-echo "new lines added";
-echo "another new lines added";
-echo "another new lines removed";
+
+
+echo "Gajala: Hi, Bokka good morning"
+echo "Bokka: Hi Gajala"
+echo "Gajala: How are you?"
+echo "Bokka: "i am good"
